@@ -1,1 +1,1 @@
-DS4 dataset
+To prepare DS4, 6 smart contracts with denial of service vulnerability are copied from https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/denial_of_service and 32 smart contracts with reentrancy vulnerability are copied from https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/reentrancy
