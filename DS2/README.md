@@ -1,1 +1,1 @@
-DS2 Dataset
+To prepare the DS2, the used repository contains 50 smart contracts with denial of service vulnerability copied from https://github.com/xf97/HuangGai/tree/master/manualCheckDataset/DosByComplexFallback and 22 smart contracts with the reentrancy vulnerability copied from https://github.com/xf97/HuangGai/tree/master/manualCheckDataset/reentrancy
