@@ -1,1 +1,1 @@
-DS 3 dataset
+To prepare DS3, 36 smart contracts with reentrancy vulnerability are taken from https://github.com/NoamaSamreen93/SmartScan-Dataset/tree/main/vulnerability-dataset/reentrancy and 16 smart contracts with denial of service vulnerability are taken from https://github.com/NoamaSamreen93/SmartScan-Dataset/tree/main/vulnerability-dataset/denial_of_service
